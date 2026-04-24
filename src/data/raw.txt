@@ -1,0 +1,418 @@
+1. According to Claude Bernard, the term "internal environment" specifically refers to: A) The Intracellular Fluid (ICF) which provides a homogenous environment for organelles. B) The Extracellular Fluid (ECF) which serves as the link between the cells and the external world. C) The exact osmotic balance between the ECF and ICF. D) Blood plasma only, excluding the interstitial fluid.
+
+2. Which of the following statements accurately describes the mechanism of "Secondary Active Transport"? A) It consumes energy directly from ATP hydrolysis to move two substances against their concentration gradients. B) It transports a substance with or against its chemical gradient without the need for a carrier protein. C) The substance uses the same carrier that is used by another actively transported substance, relying on the energy created by the primary transport. D) It always occurs in opposite directions for the two transported substances (Antiport).
+
+3. In renal cells, the secretion of hydrogen is a classic example of: A) Primary Active Transport. B) Symport (co-transport in the same direction) with sodium. C) Antiport (secondary active transport in the opposite direction) with sodium. D) Facilitated Diffusion.
+
+4. Which of the following substances are transported across the cell membrane via "Simple Diffusion" due to their non-polar nature? A) Glucose and amino acids. B) Steroid hormones (synthesized from cholesterol). C) Sodium and potassium ions. D) High molecular weight proteins.
+
+5. Which of the following characteristics determines the "maximum rate of transport" in facilitated diffusion? A) The density of un-gated ion channels (Leak channels). B) The electrical gradient across the membrane exclusively. C) The saturation of all available carriers on the cell membrane. D) The amount of ATP available to the cell.
+
+6. The proteins "Clathrin" and "Dynamin" play a vital role in facilitating which of the following cellular processes? A) Exocytosis. B) Endocytosis. C) Solvent drag. D) The action of the Na+/K+ ATPase pump.
+
+7. Which of the following statements is strictly true regarding Exocytosis? A) It occurs passively and does not require energy consumption. B) It requires calcium, energy, and certain proteins. C) It is considered a form of pinocytosis. D) It is the process of engulfing particulate matter or bacteria.
+
+8. The passive diffusion of water across cell membranes is known as osmosis, and it occurs through specific water channels called: A) Ionophores. B) Aquaporins. C) Ligand-gated channels. D) Mechano-sensitive channels.
+
+9. The fundamental difference between "Carriers" and "Pumps" in cell membranes is: A) Carriers act as ATP-hydrolyzing enzymes while pumps do not. B) Carriers change their configuration to move substances, whereas pumps act as ATPase enzymes to catalyze ATP hydrolysis for active transport. C) Carriers are exclusively used for secondary active transport. D) Pumps allow for the simple diffusion of substances down their gradients.
+
+10. The voltage-gated channels directly responsible for the repolarization phase of action potentials are: A) Potassium leak channels. B) Voltage-gated sodium channels. C) Voltage-gated potassium channels. D) Ligand-gated ion channels.
+
+11. Ion channels that open or close in response to the binding of specific neurotransmitters or hormones to membrane receptors are called: A) Voltage-gated channels. B) Leak channels. C) Ligand-gated channels. D) Mechano-sensitive channels.
+
+12. The proton pump and the Ca+2 ATPase pump are considered examples of: A) Secondary active transport (Antiport). B) Primary active transport. C) Facilitated diffusion. D) Active vesicular transport.
+
+13. Regarding the phenomenon of "Solvent drag," which of the following is most accurate? A) It is an active transport process occurring in the kidneys. B) It occurs during the diffusion of a solvent, where it tends to drag some solute with it, typically in capillaries. C) It relies entirely on the presence of highly specialized carrier proteins. D) It requires ATP hydrolysis to operate against a chemical gradient.
+
+14. The term "Pinocytosis" (cell drinking) is specifically applied when: A) A cell engulfs bacteria or solid particulate matter. B) A cell releases synthesized materials packed in secretory vesicles. C) The engulfed substance by endocytosis is dissolved in fluid. D) Ions move down their concentration gradient using an ion channel.
+
+15. The pump that transports 3 sodium atoms from the ICF to the ECF in exchange for 2 potassium atoms from the ECF to the ICF: A) Operates down the electrochemical concentration gradient. B) Represents secondary active transport. C) Is the Na+/K+ pump and represents primary active transport. D) Does not consume ATP unless its carriers are saturated.
+
+16. Nerves and muscles are referred to as "excitable tissues" because they are uniquely capable of: A) Maintaining a resting membrane potential (RMP). B) Generating electrical signals known as action potentials. C) Possessing Na+/K+ pumps in their membranes. D) Rapid cellular division to repair tissue damage.
+
+17. If the concentration of glucose in the ECF is lower than in the ICF, and the cell needs to transport more glucose inside, the obligatory mechanism for this would be: A) Facilitated diffusion through basolateral membranes. B) Active transport (primary or secondary). C) Simple diffusion. D) Osmosis.
+
+18. In cell physiology, the engulfing of particulate matter or bacteria is terminologically known as: A) Pinocytosis. B) Phagocytosis (cell eating). C) Exocytosis. D) Symport.
+
+19. Which of the following transport channels are "always open" and do not possess gates controlled by external signals or voltage? A) Ligand-gated channels. B) Mechano-sensitive channels. C) Voltage-gated channels. D) Leak channels.
+
+20. Based on the concept of the "homogenous environment" provided by the ECF, any disturbance in this fluid compartment necessarily leads to: A) Increased cellular division rates. B) Improved performance of adjacent cells. C) Impairment of cell functions, resulting in disease. D) The transformation of the ECF into trans-cellular fluid.
+
+21. In a 70 kg young adult male, what is the approximate expected volume of the Intracellular Fluid (ICF) compartment? A) 42 Liters. B) 14 Liters. C) 28 Liters. D) 15 Liters.
+
+22. Based on the body composition of a 70 kg young adult male, what is the correct descending order of constituents by percentage of total weight? A) Water > Fat > Proteins > Minerals > Carbohydrates. B) Water > Proteins > Fat > Minerals > Carbohydrates. C) Fat > Water > Proteins > Carbohydrates > Minerals. D) Water > Proteins > Minerals > Fat > Carbohydrates.
+
+23. Why is the percentage of Total Body Water (TBW) in females lower compared to equivalent males of the same age and weight? A) Females have a larger muscle mass which stores less water. B) Females have a higher percentage of fat, and fat cells contain significantly less water than muscle cells. C) Females have a higher metabolic rate which consumes internal water. D) Due to continuous monthly hormonal fluctuations.
+
+24. What is the approximate percentage of water in a fat cell compared to a muscle cell, respectively? A) 75% in fat and 13% in muscle. B) 13% in fat and 75% in muscle. C) 10% in fat and 90% in muscle. D) Both contain approximately 50% water.
+
+25. In a 70-year-old male, what is the approximate percentage of Total Body Water (TBW) relative to his body weight? A) 80% B) 60% C) 52% D) 46%
+
+26. In an elderly female, what is the expected percentage of TBW? A) 51% B) 46% C) 52% D) 60%
+
+27. In neonates, which of the following statements accurately describes body fluid distribution? A) ICF volume exceeds 60% of total body weight. B) The ECF/ICF volume ratio is very low. C) ECF exceeds 30% and ICF is less than 40% of body weight, making the ECF/ICF ratio very high. D) Total body water constitutes only 60% of the neonate's weight.
+
+28. The Interstitial fluid (ISF) constitutes what percentage of the ECF and the Total Body Weight (TBwt), respectively? A) 25% of ECF and 5% of TBwt. B) 75% of ECF and 15% of TBwt. C) 1/3 of ECF and 20% of TBwt. D) 100% of ECF and 60% of TBwt.
+
+29. The intravascular fluid (plasma) volume approximately accounts for: A) 75% of the ECF. B) 25% of the ECF (or 5% of TBwt). C) 15% of the total body weight. D) 40% of the total body weight.
+
+30. Which of the following fluids is considered a component of the Trans-cellular fluid compartment? A) Synovial fluid and Cerebrospinal fluid (CSF). B) Blood plasma and lymph. C) Interstitial fluid. D) Cytoplasm.
+
+31. Why is the volume of trans-cellular fluid usually excluded from ECF calculations under normal physiological conditions? A) Because its composition is radically different and resembles ICF. B) Because its volume is very low (negligible). C) Because it completely lacks water content. D) Because it is impossible to sample.
+
+32. In abnormal conditions such as pleural effusion and ascites, which specific fluid compartment's volume becomes abnormally high? A) Intravascular fluid. B) Intracellular fluid. C) Trans-cellular fluid. D) Interstitial fluid exclusively.
+
+33. When comparing the ECF to the ICF, the ECF is characterized by having: A) Lower volume, higher pH, and higher concentrations of Na+ and Cl-. B) Lower volume, higher pH, and higher concentrations of K+ and Mg+2. C) Higher volume, lower pH, and higher concentrations of Na+ and Cl-. D) Identical ion concentrations but differing volumes.
+
+34. The primary "non-diffusible anions" found abundantly in the Intracellular Fluid (ICF) are: A) Chloride and bicarbonate. B) Organic phosphate and proteins. C) Sulfate and chloride. D) Sodium and potassium.
+
+35. According to the physiological tables for a 70 kg adult male, what is the concentration of Sodium (Na+) in the Extracellular Fluid (ECF)? A) 4.0 mmol/L B) 142.0 mmol/L C) 10.0 mmol/L D) 145.0 mmol/L
+
+36. Based on the provided tables, what is the concentration of Potassium (K+) in the Intracellular Fluid (ICF)? A) 4.0 mmol/L B) 142.0 mmol/L C) 140.0 mmol/L D) 105.0 mmol/L
+
+37. What is the pH of the Intracellular Fluid (ICF) compared to the ECF pH of 7.4? A) 7.4 B) 7.6 C) 7.0 D) 6.8
+
+38. To measure the volume of a body fluid compartment using the indicator (dye) dilution method, which formula is used? A) Volume = (Q + e) / C B) Volume = (Q * C) / e C) Volume = (Q - e) / C D) Volume = Q / (C - e) (Where Q is quantity injected, e is amount excreted/metabolized, C is final concentration).
+
+39. To ensure accurate measurement of a body fluid compartment, the indicator substance must possess all the following characteristics, EXCEPT: A) Being non-toxic and easily measured. B) Distributing only in the compartment being measured. C) Being rapidly stored and metabolized by the body to facilitate tracking. D) Not affecting water distribution in other compartments.
+
+40. If the substance used for measuring a compartment leaks into another compartment, how will this affect the final volume calculation? A) It increases the final concentration, thereby decreasing the calculated volume. B) It decreases the final concentration, thereby overestimating (increasing) the calculated volume. C) The calculated volume remains unaffected as long as the substance is non-toxic. D) The calculated volume becomes mathematically zero.
+
+41. Which of the following substances are best suited for measuring "Total Body Water" (TBW)? A) Deuterium oxide (heavy water) and Tritium oxide. B) Inulin and sucrose. C) Evan's blue dye. D) Radioactive chromium (51Cr).
+
+42. When using saccharides (like inulin, mannitol, sucrose) to measure the ECF volume, what is the primary limitation? A) They easily penetrate cells, leading to an overestimation. B) They fail to penetrate the trans-cellular fluid, thus underestimating the ECF. C) They bind heavily to plasma proteins, failing to reach the interstitial space. D) They are completely metabolized by the liver before equilibration.
+
+43. The use of radioactive electrolytes (like sodium, chloride, and bromide) to measure ECF volume generally results in: A) Underestimation because they cannot cross capillary walls. B) 100% accurate estimation. C) Overestimation because they penetrate the entire ECF and may escape into cells. D) The measurement of plasma volume only.
+
+44. To calculate Total Blood Volume if you know the plasma volume and the packed cell volume (PCV), which formula from the text is correct? A) Blood = Plasma * (PCV / 100 - PCV) B) Blood = Plasma * 100 / (100 - PCV) C) Blood = Plasma * (100 - PCV) / 100 D) Blood = Plasma + PCV
+
+45. To measure plasma volume specifically, substances that bind to plasma proteins and remain in the plasma are used. Which of the following is an example? A) Deuterium oxide. B) Evan's blue dye and Radioactive iodine used to label serum albumin (RISA). C) Aminopyridine. D) Inulin.
+
+46. Radioactive chromium (51Cr) is primarily utilized to measure: A) Interstitial fluid (ISF) volume. B) Total Body Water (TBW). C) Red blood cell volume (by labeling re-injected RBCs). D) Cerebrospinal fluid volume.
+
+47. There is no direct substance available to measure the Intracellular Fluid (ICF) volume. How is it calculated indirectly? A) ICF = TBW + ECF B) ICF = ECF - Plasma C) ICF = TBW - Plasma D) ICF = TBW - ECF
+
+48. How is the volume of the Interstitial Fluid (ISF) calculated indirectly? A) ISF = ECF - Plasma B) ISF = ICF - ECF C) ISF = TBW - ECF D) ISF = Plasma - Blood volume
+
+49. If a person's Total Body Water (TBW) is 42 Liters, and the ECF volume is calculated as 14 Liters. What is the ICF volume? A) 56 Liters. B) 28 Liters. C) 14 Liters. D) Cannot be determined without knowing plasma volume.
+
+50. Which of the following factors is NOT listed in the text as affecting body fluid compartments? A) Osmosis. B) Gibbs Donnan equilibrium. C) Sodium-potassium pump. D) Alveolar surface tension.
+
+51. Osmosis is defined as the movement of water molecules across a semi-permeable membrane from a region of: A) Lower solute concentration to a region of higher solute concentration. B) Higher solute concentration to a region of lower solute concentration. C) Equal solute and solvent concentrations. D) Negative electrical charge to positive electrical charge exclusively.
+
+52. For osmosis to occur across a cell membrane, two conditions must be met: the membrane must be semi-permeable, and: A) There must be a temperature difference across the membrane. B) There must be a difference in solute concentration (osmolarity) between the two sides. C) The membrane must possess ATP-driven pumps. D) The solute molecules must be non-ionizable.
+
+53. Osmolarity represents the number of osmoles of solute per: A) One kilogram of solvent. B) One liter of solution. C) One milligram of solute. D) One mole of gas.
+
+54. The dissociation of one mole of Sodium Chloride (NaCl) in an ideal solution yields: A) 1 osmole. B) 2 osmoles. C) 3 osmoles. D) 0.5 osmole.
+
+55. One mole of Glucose (C6H12O6) in a solution yields only one osmole. What is the physiological reason provided for this? A) Because glucose is too large to cross the membrane. B) Because organic substances like glucose are non-ionizable. C) Because glucose is immediately consumed by the cell. D) Because it binds with multiple water molecules.
+
+56. Osmotic pressure is defined as: A) The pressure generated by water forcefully entering a cell. B) The mechanical pressure on the walls of blood vessels. C) The pressure necessary to prevent solvent migration (i.e., prevent osmosis). D) The pressure generated by the Na+/K+ pump.
+
+57. Osmolality expresses the number of osmoles per kilogram of solvent. Why is it considered more accurate than osmolarity? A) Because it relies on volume, which is affected only by atmospheric pressure. B) Because it depends on mass (which is constant) rather than volume (which fluctuates with temperature and pressure). C) Because osmolality measures only non-ionized substances. D) Because it is independent of sodium concentration.
+
+58. In normal human body fluids, why are osmolality and osmolarity practically equal and used interchangeably (mOsm/L)? A) Because body temperature and pressure are constant, and solute concentration is very low (highly diluted), making 1 liter equal to 1 kg of water. B) Because the amount of proteins cancels out the differences between them. C) Because all body fluids consist of pure plasma. D) Because the kidneys continuously excrete excess osmoles.
+
+59. The primary ion responsible for determining the bulk of the Extracellular Fluid (ECF) osmolality (280-300 mOsm/L) is: A) Potassium (K+) and its associated anions. B) Sodium (Na+) and its associated anions. C) Calcium (Ca+2). D) Bicarbonate (HCO3-).
+
+60. The primary ion responsible for determining the Intracellular Fluid (ICF) osmolality is: A) Sodium (Na+). B) Organic proteins. C) Potassium (K+) and its associated anions. D) Magnesium (Mg+2).
+
+61. The term "Tonicity" is used to describe the osmolality of a solution relative to the osmolality of: A) Intracellular fluid. B) Urine. C) Plasma. D) Cerebrospinal fluid.
+
+62. Placing a normal cell in a Hypotonic solution will inevitably result in: A) No osmosis occurring. B) Osmosis moving water into the cell, causing it to swell. C) Osmosis moving water out of the cell, causing it to shrink. D) Immediate destruction of the cell wall with no volume change.
+
+63. Intravenous (I.V.) infusion of an Isotonic solution leads to all the following consequences, EXCEPT: A) An increase in ECF volume. B) No change in ECF osmolarity. C) An increase in ICF volume. D) No effect on the volume or osmolarity of cells (ICF).
+
+64. What happens to the volume and osmolarity of the ICF when a patient is given an I.V. infusion of a Hypertonic solution? A) ICF volume increases, and osmolarity decreases. B) ICF volume decreases, and osmolarity increases (cell shrinks). C) Both ICF volume and osmolarity decrease. D) Both ICF volume and osmolarity increase.
+
+65. According to the "Effects of I.V. solutions" table, the infusion of a Hypotonic solution causes: A) Increased volume in both ECF and ICF, and decreased osmolarity in both compartments. B) Decreased ECF volume and increased ICF volume. C) Increased ECF osmolarity and decreased ICF osmolarity. D) Compartment volumes remain constant while only osmolarity changes.
+
+66. Osmolality can be calculated from Freezing Point Depression. One osmole depresses the freezing point of a solution by: A) 0.00186 C. B) 1.86 C. C) -0.54 C. D) 100 C.
+
+67. If the freezing point of normal human plasma is depressed by 0.54 C, what is the osmolality of the plasma in mOsm/L? (Formula: Depression / 0.00186) A) 150 mOsm/L B) 290 mOsm/L C) 300 mOsm/L D) 280 mOsm/L
+
+68. The Gibbs-Donnan equilibrium states that the presence of non-diffusible ions on one side of a membrane permeable to other ions affects: A) The distribution of diffusible ions only. B) The distribution of diffusible ions, water, and generates an electrical difference across the membrane. C) The temperature of the membrane only. D) The type of neurotransmitters secreted.
+
+69. The ICF contains a higher concentration of non-diffusible anions than the ECF, meaning more particles inside the cell. Without protective mechanisms, this distribution tends to cause: A) Cellular shrinkage and dehydration. B) Swelling of cells and eventually their rupture. C) Complete cessation of active transport. D) Absolute neutralization of charges on both sides of the membrane.
+
+70. The primary physiological mechanism that prevents cellular swelling caused by the Donnan effect is: A) The rigid cell wall structure. B) The action of the Na+/K+ pump, which transports 3 Na+ out for every 2 K+ in, decreasing the total number of ions inside. C) The permanent closure of all potassium leak channels. D) The conversion of internal proteins into carbohydrates.
+
+71. The electrical difference across the cell membrane generated by the asymmetrical distribution of diffusible ions can be determined for each ion individually using: A) Starling's equation. B) The dye dilution formula. C) The Nernst equation. D) Claude Bernard's principle.
+
+72. Due to the Gibbs-Donnan equilibrium, and because plasma contains a higher concentration of protein than Interstitial Fluid (ISF), plasma contains a slightly higher concentration of: A) Diffusible anions like chloride. B) Cations like sodium and potassium. C) Non-ionized carbohydrates. D) Dissolved oxygen.
+
+73. Referring to the "Differences between plasma and ISF" table, the concentration of Na+ in plasma is 145 mmol/L, while in the ISF it is: A) Exactly 145 mmol/L. B) 142 mmol/L (reflecting the higher cation concentration in plasma). C) 150 mmol/L. D) 105 mmol/L.
+
+74. Similarly, the concentration of Chloride (Cl-) in plasma is 105 mmol/L, whereas in the ISF it is: A) Exactly 105 mmol/L. B) Much lower, around 80 mmol/L. C) Slightly higher, 108 mmol/L (to balance the negative charges of plasma proteins). D) Zero.
+
+75. Which of the following is NOT listed as a function of the Sodium-Potassium pump? A) Accounts for 20-45% of the total metabolic energy expended by the cell. B) Participates in the genesis of the resting membrane potential (RMP). C) Prevents swelling and rupture of cells by removing excess sodium. D) Stimulates the secretion of dopamine to lower blood pressure.
+
+76. The activity of the Sodium-Potassium pump is increased (regulated) by: A) The intracellular accumulation of potassium ions. B) Dopamine and digitalis. C) Intracellular accumulation of Na+ ions, Insulin, Aldosterone, and thyroid hormones. D) A drop in core body temperature.
+
+77. What is the effect of the drug Digitalis on the Sodium-Potassium pump? A) It increases its activity to reduce cellular swelling. B) It inhibits the pump's activity. C) It reverses the direction of transport (3 K+ out, 2 Na+ in). D) It has no effect on the pump, acting only on calcium channels.
+
+78. Starling's forces govern the exchange of fluid between: A) The intracellular fluid and interstitial fluid. B) The plasma (inside capillaries) and the interstitial fluid. C) The blood and cerebrospinal fluid. D) Large arteries and large veins.
+
+79. Why are capillaries uniquely termed the "exchange vessels" affected by Starling's forces? A) Because they possess smooth muscles that pump fluid. B) Because their walls are characterized by pores between endothelial cells that allow water movement. C) Because blood pressure is highest within them. D) Because they lack valves completely.
+
+80. Capillary Hydrostatic Pressure (HPc) primarily acts to: A) Absorb fluid from the interstitial space into the blood. B) Force (filter) plasma from the blood vessel into the interstitial fluid (ISF). C) Bind proteins within the blood. D) Decrease capillary permeability.
+
+81. The values of Capillary Hydrostatic Pressure (HPc) at the arteriolar end and veniolar end of capillaries are respectively: A) 15 mmHg and 35 mmHg. B) 25 mmHg at both ends. C) 35 mmHg and 15 mmHg. D) 10 mmHg and -10 mmHg.
+
+82. Capillary Oncotic Pressure (OPc) is roughly 25 mmHg throughout the capillary and primarily acts to: A) Filter fluid outwards. B) Absorb fluid from the ISF back into the plasma. C) Push red blood cells out of the vessels. D) Equalize oxygen partial pressure.
+
+83. The primary protein responsible for exerting the colloid osmotic pressure (Oncotic pressure) in plasma is: A) Globulin. B) Fibrinogen. C) Albumin. D) Hemoglobin.
+
+84. Why is Albumin the main generator of OPc despite being the smallest plasma protein? A) Because it carries an extremely high positive charge. B) Because osmolarity depends on the "number" of particles, not their size, and albumin has the highest number of particles among plasma proteins. C) Because it is synthesized in the liver at a rapid rate. D) Because it binds with sodium to double its effective size.
+
+85. When calculating Net Filtration Pressure, Interstitial fluid hydrostatic pressure (HPisf) and Interstitial fluid oncotic pressure (OPisf) are normally ignored. Why? A) Because their values are too high to measure accurately. B) Because they are of low magnitude and act against each other, essentially canceling each other out. C) Because they fluctuate wildly every second. D) Because the interstitial fluid exerts zero pressure.
+
+86. Based on the simplified filtration formula (HPc minus OPc), what is the net filtration pressure at the arteriolar end of the capillary? A) (15 - 25) = -10 mmHg. B) (35 - 25) = +10 mmHg (Net filtration). C) (35 + 25) = +60 mmHg. D) (25 - 25) = 0 mmHg.
+
+87. What is the net filtration pressure at the veniolar end of the capillary? A) (15 - 25) = -10 mmHg (Net absorption). B) (35 - 25) = +10 mmHg. C) (25 - 15) = +10 mmHg. D) (0 - 25) = -25 mmHg.
+
+88. Approximately 90% of the fluid filtered at the arteriolar end is absorbed back at the veniolar end. What is the fate of the remaining 10% (and any escaped proteins)? A) They remain in the ISF to form physiological edema. B) They evaporate through skin pores. C) They are absorbed and returned to the circulation by the lymphatic vessels. D) They are phagocytosed by macrophages.
+
+89. A disturbance in the balance between filtration and absorption, or failure of the lymphatics to remove the remaining 10% of fluid, results in: A) Arterial hypertension. B) Cellular dehydration. C) Accumulation of fluid in the interstitium, causing edema. D) Decreased blood viscosity.
+
+90. Edema is defined physiologically as: A) Normal fluid accumulation inside growing cells. B) Abnormal accumulation of fluid in the interstitial space. C) A severe drop in total blood volume. D) An increase in the hematocrit (PCV).
+
+91. Left-sided heart failure causes blood to accumulate in the pulmonary veins. According to the mechanisms of edema, this leads to: A) Generalized edema. B) Pulmonary edema (due to increased HPc in pulmonary capillaries). C) Decreased oncotic pressure in the lungs. D) Pulmonary lymphatic obstruction.
+
+92. Right-sided heart failure typically causes: A) Only pulmonary edema. B) A decrease in interstitial fluid volume. C) Generalized edema (due to blood accumulation in systemic veins, increasing HPc). D) An increase in plasma osmolarity.
+
+93. Venous obstruction causes localized edema primarily due to: A) Decreased capillary permeability. B) Increased hydrostatic pressure (HPc) proximal to the site of obstruction. C) Decreased colloid oncotic pressure. D) Accompanying lymphatic obstruction.
+
+94. Why does arterial Hypertension generally NOT cause edema? A) Because the body secretes extra proteins to compensate. B) Because capillary hydrostatic pressure (HPc) is not increased at the veniolar end (the site of absorption). C) Because lymphatics dilate to absorb all excess fluid. D) Because capillary walls become completely impermeable at high pressures.
+
+95. A decrease in Capillary Oncotic Pressure (OPc) causes edema because: A) It drastically increases fluid filtration outward. B) It prevents the absorption of the filtered fluid back into the intravascular space. C) It chemically seals off lymphatic vessels. D) It reduces blood volume to the point of venous collapse.
+
+96. The disease "Kwashiorkor" causes generalized edema via which of the following mechanisms? A) Increased HPc due to heart failure. B) Malabsorption due to chronic pancreatitis. C) Malnutrition and decreased protein intake, leading to decreased OPc. D) Lymphatic obstruction by worms.
+
+97. How does chronic liver disease (e.g., Liver cirrhosis) cause generalized edema? A) By increasing pulmonary blood pressure. B) By increasing systemic capillary permeability. C) Through decreased synthesis of plasma proteins (like albumin), thereby decreasing OPc. D) By increasing the secretion of proteolytic enzymes into the blood.
+
+98. Nephrotic syndrome or renal failure causes edema primarily due to: A) Loss of plasma proteins in urine, resulting in decreased OPc. B) Excessive retention of proteins in the blood. C) Increased hydrostatic pressure strictly in leg veins. D) Urethral obstruction raising arterial blood pressure.
+
+99. Filariasis involves worms that live within vessels and causes massive swelling known as Elephantiasis. What is the primary mechanism for this edema? A) Increased capillary permeability. B) Lymphatic obstruction preventing fluid and protein removal from the interstitium. C) Severe hypoalbuminemia. D) Right-sided heart failure.
+
+100. Surgical removal of lymph nodes (e.g., during cancer surgery) interrupts lymph flow, resulting in: A) Generalized edema throughout the body. B) A severe drop in blood pressure. C) Localized edema in the affected area. D) Increased production of plasma proteins.
+
+101. Inflammation, burns, and allergic reactions share a common mechanism for causing edema, which is: A) Increased permeability of capillaries. B) Decreased capillary hydrostatic pressure. C) Mechanical lymphatic obstruction. D) Localized overproduction of albumin.
+
+102. In allergic reactions, what is the primary chemical mediator released by mast cells and basophils that causes increased capillary permeability? A) Adrenaline. B) Dopamine. C) Histamine. D) Acetylcholine.
+
+103. Clinically, edema is classified by applying pressure with a thumb against a bone for a minute. If it leaves a mark (a pit) that returns slowly, it is called Pitting Edema. Why does the pit appear? A) Rupture of subcutaneous fat cells. B) The fluid escapes away from the site of pressure and returns slowly. C) Coagulation of accumulated proteins. D) Breakage of fragile lymphatic vessels.
+
+104. Which of the following causes does NOT typically lead to Pitting Edema? A) All causes of high capillary hydrostatic pressure. B) All causes of low capillary oncotic pressure. C) Causes of lymphatic obstruction (this causes non-pitting). D) Right and left heart failure.
+
+105. In Non-pitting edema, the finger does not leave a mark because the escaped fluid returns rapidly. What is the physiological explanation provided for this? A) The fluid has extremely low viscosity like pure water. B) The fluid is attracted by the large amount of proteins that have filtered into the interstitium. C) Muscles contract involuntarily to push the fluid back. D) The skin becomes too thick to deform under pressure.
+
+106. What are the main causes that lead to Non-pitting edema according to the text? A) Malnutrition and heart failure. B) All causes of increased permeability and all causes of lymphatic obstruction. C) Severe hypotension. D) Excessive intravenous saline infusion.
+
+107. How is the Resting Membrane Potential (RMP) defined? A) It is the electrical voltage generated during muscle contraction. B) It is the difference in electrical potential between the interior and exterior of cell membranes at rest, with the interior being more negative relative to the exterior. C) It is the exact neutralization of positive and negative charges across the membrane. D) It is the voltage at which voltage-gated sodium channels open.
+
+108. A cell membrane at rest is said to be "polarized," meaning: A) It is positive inside and negative outside. B) It is electrically neutral. C) It is negative inside and positive outside. D) It allows the free passage of all ions indiscriminately.
+
+109. The potential difference across the cell membrane can be measured by special devices using electrodes placed on both sides of the membrane. An example of such a device is: A) Electrocardiogram (ECG). B) Cathode Ray Oscilloscope. C) Atomic emission spectrometer. D) Pulse oximeter.
+
+110. The magnitude of the RMP varies among different cell types. What is the expected value in a skeletal muscle cell and a nerve cell, respectively? A) -90 mV and -70 mV. B) -70 mV and -90 mV. C) +35 mV and -90 mV. D) Both are exactly -90 mV.
+
+111. What is the "major cause" responsible for generating the RMP in cells? A) Sodium influx. B) Potassium efflux. C) The exclusive presence of organic proteins inside the cell. D) The action of the calcium pump.
+
+112. At rest, the cell membrane is much more permeable to potassium than to sodium. What is the physical/chemical explanation provided for this? A) Because potassium ions carry no charge. B) Because the hydrated atom of potassium is smaller than the hydrated atom of sodium. C) Because sodium leak channels do not exist in any cell. D) Because potassium is actively pumped out of the cell.
+
+113. As potassium diffuses out of the cell down its concentration gradient through leak channels, for each atom that exits: A) A positive charge is generated inside and a negative charge outside. B) A negative charge is generated inside and a positive charge is generated outside. C) No charge change occurs because anions exit with it. D) One ATP molecule is consumed.
+
+114. As potassium efflux continues, the accumulating positive charges outside repel K+ back inside (electrical gradient). Net potassium efflux eventually stops when: A) Potassium is completely depleted from the cell. B) The chemical gradient driving K+ outside equals the electrical gradient driving it inside (stage of equilibrium). C) All leak channels suddenly close. D) The Na+/K+ pump is activated to reverse the process.
+
+115. The Sodium-Potassium pump is described as an "electrogenic pump" that contributes to the RMP. Why? A) Because it utilizes electricity instead of ATP to function. B) Because it pumps 3 Na+ ions out and 2 K+ ions in, generating a net accumulation of negative charges inside the cell. C) Because it pumps negative ions along with positive ions. D) Because it completely blocks potassium leakage.
+
+116. Intracellular non-diffusible anions include proteins and organic phosphates. What is the extent of their contribution to the genesis of the RMP? A) They are the primary cause, contributing 90%. B) They make a significant contribution estimated at 50%. C) Their presence makes a very low contribution by increasing the number of negative charges inside. D) They do not contribute at all and actually oppose RMP generation.
+
+117. The Equilibrium Potential (E) for an ion indicates its role in RMP genesis, assuming it's the only ion crossing the membrane. Using the Nernst equation for cations: E = 61 log [cation]ECF / [cation]ICF. If the concentration of a cation outside the cell is 10 times higher than inside, its equilibrium potential would be (given log 10 = 1): A) -61 mV. B) 0 mV. C) +61 mV. D) +122 mV.
+
+118. Applying the same logic, since Potassium (K+) concentration is much higher inside (ICF) than outside (ECF), the ratio [ECF]/[ICF] is a fraction (less than 1), making its logarithm negative. This mathematically explains why the equilibrium potential for potassium is: A) A highly positive value. B) A negative value close to the actual RMP. C) Always zero. D) Incalculable by the Nernst equation.
+
+119. The Somatic Nervous System (SNS) controls voluntary functions and supplies skeletal muscles, whereas the Autonomic Nervous System (ANS) controls involuntary functions and supplies: A) Skeletal muscles and tendons. B) Smooth muscles, cardiac muscles, and glands. C) The brain and spinal cord exclusively. D) Motor cranial nerves only.
+
+120. The primary anatomical difference between the SNS and ANS regarding the neural pathway from the CNS to the target organ is: A) SNS uses three neurons, while ANS uses one. B) SNS relies on ganglia, while ANS has no ganglia. C) In the SNS, one neuron connects the CNS to the target muscle. In the ANS, two neurons (preganglionic & postganglionic) connected by a ganglion connect the CNS to the organ. D) There is no anatomical difference; the difference is purely functional.
+
+121. The ANS is divided functionally and anatomically into two main divisions: A) A motor division and a sensory division. B) The Sympathetic division and the Parasympathetic division. C) A somatic division and an autonomic division. D) A central division and a peripheral division.
+
+122. Activators: What conditions activate the Sympathetic and Parasympathetic systems, respectively? A) Sympathetic during rest (digestion); Parasympathetic during stressful stimuli. B) Both activate during stress to preserve life. C) Sympathetic is activated by stressful stimuli (fear, pain, exercise); Parasympathetic is activated by complete physical and mental rest (e.g., sleep). D) Sympathetic operates by day; Parasympathetic operates by night, independent of external stimuli.
+
+123. Regarding Metabolism, the Sympathetic nervous system is described as causing: A) Anabolic reactions to store energy. B) Catabolic reactions for immediate release of energy used for "fight or flight". C) No metabolic effects, strictly controlling muscle tone. D) Hydrolytic reactions to break down enzymes.
+
+124. The peripheral parts of the ANS consist of preganglionic and postganglionic neurons. What are their myelination characteristics and fiber types, respectively? A) Preganglionic: Unmyelinated (Type C). Postganglionic: Myelinated (Type B). B) Both are myelinated (Type A). C) Preganglionic: Myelinated (Type B). Postganglionic: Unmyelinated (Type C). D) Both are unmyelinated to improve conduction velocity.
+
+125. The cell bodies of the preganglionic neurons are located in the: A) Dorsal horn of the spinal cord. B) Lateral horn of the spinal cord or the motor nuclei of cranial nerves 10, 9, 7, and 3 (= 1973). C) Ventral horn exclusively. D) Inside the sympathetic ganglia themselves.
+
+126. The axons of preganglionic neurons exit through the ventral horns to the spinal nerves, then leave the spinal nerve via: A) Gray rami communicantes. B) Dorsal roots. C) White rami communicantes to synapse in sympathetic ganglia. D) Direct cranial nerve pathways.
+
+127. After synapsing in the sympathetic ganglion, postganglionic neurons return to the spinal nerve for distribution via: A) White rami communicantes. B) Descending spinal tracts. C) Gray rami communicantes. D) The Vagus nerve.
+
+128. In terms of anatomical length, how do neurons in the Sympathetic and Parasympathetic systems compare? A) Sympathetic: Preganglionic is short, Postganglionic is long. Parasympathetic: Preganglionic is long, Postganglionic is short. B) Sympathetic: Preganglionic is long, Postganglionic is short. Parasympathetic: Preganglionic is short, Postganglionic is long. C) In both systems, pre- and postganglionic neurons are of equal length. D) Parasympathetic system lacks postganglionic neurons.
+
+129. Where are the ganglia located in the Parasympathetic nervous system? A) In a chain parallel to the spinal cord (Paravertebral). B) Near the spinal cord as collateral ganglia. C) Near or within the wall of the target organs. D) Inside the midbrain.
+
+130. Output from the CNS differs between the two systems. The sympathetic output is described as: A) Craniosacral. B) Thoracolumbar, originating from spinal segments T1 to L2. C) Cervicothoracic. D) Originating from all spinal segments without exception.
+
+131. The Parasympathetic output from the CNS is described as Craniosacral. Which specific nerves are involved? A) Cranial nerves 3, 7, 9, 10 and sacral nerves S2, S3, S4. B) Cranial nerves 1, 2, 8 and lumbar spinal nerves. C) Only the Vagus nerve (10). D) Spinal segments T1 to T12.
+
+132. Sympathetic effects are "Generalized", while parasympathetic effects are "Localized". What is the anatomical reason for the generalized sympathetic effect? A) Its neurotransmitters are never degraded. B) Due to the divergence of its preganglionic neurons, with a pre-to-postganglionic ratio of about 1:20. C) Because it innervates skeletal muscles that move together. D) Because its conduction is 100 times faster than the parasympathetic.
+
+133. In contrast, the divergence ratio (preganglionic to postganglionic) in the Parasympathetic system is approximately: A) 1:100 B) 1:20 C) 1:1, resulting in localized effects. D) 20:1
+
+134. Which neurotransmitter is released by ALL preganglionic neurons, whether sympathetic or parasympathetic? A) Noradrenaline. B) Acetylcholine. C) Dopamine. D) Serotonin.
+
+135. Postganglionic Parasympathetic neurons release the neurotransmitter: A) Noradrenaline. B) Adrenaline. C) Acetylcholine. D) GABA.
+
+136. Generally, postganglionic Sympathetic neurons release Noradrenaline. However, there are notable exceptions that release Acetylcholine. Which of the following represents these exceptions? A) The heart muscle and SA node. B) Sweat glands, arterioles of skeletal muscles, and pilo-erector muscles. C) Dilator pupillae of the eye. D) Sphincters of the bladder.
+
+137. Acetylcholine is synthesized from Acetyl CoA and choline within cholinergic neurons. What enzyme catalyzes this synthesis? A) Acetylcholinesterase. B) Choline acetyltransferase. C) Monoamine oxidase. D) Tyrosine hydroxylase.
+
+138. Acetylcholine is rapidly hydrolyzed in the synaptic cleft to terminate its action. What is the responsible enzyme, and what are the breakdown products? A) Enzyme: COMT. Products: Adrenaline and choline. B) Enzyme: Acetylcholinesterase. Products: Acetate and choline. C) Enzyme: MAO. Products: VMA. D) Enzyme: Choline acetyltransferase. Products: Acetic acid only.
+
+139. Noradrenaline is synthesized in noradrenergic neurons starting from which primary amino acid? A) Tryptophan. B) Tyrosine (from diet or from phenylalanine). C) Arginine. D) Glycine.
+
+140. The first step in Noradrenaline synthesis is the hydroxylation of tyrosine to Dopa in the cytoplasm, catalyzed by: A) Dopa decarboxylase. B) Dopamine beta hydroxylase. C) Tyrosine hydroxylase. D) PNMT.
+
+141. The correct sequence of steps in catecholamine synthesis is: A) Tyrosine -> Dopamine -> Dopa -> Noradrenaline -> Adrenaline B) Tyrosine -> Dopa -> Dopamine -> Adrenaline -> Noradrenaline C) Tyrosine -> Dopa -> Dopamine -> Noradrenaline -> Adrenaline D) Dopa -> Tyrosine -> Dopamine -> Noradrenaline -> Adrenaline
+
+142. Where specifically is Dopamine converted to Norepinephrine (using Dopamine beta hydroxylase)? A) In the cytoplasm. B) In the nucleus. C) Inside the vesicles. D) In the synaptic cleft after release.
+
+143. The Adrenal Medulla is considered a modified sympathetic ganglion that lost its postganglionic axons. Here, most noradrenaline is converted to Adrenaline by the enzyme: A) Phenylethanolamine-N-methyltransferase (PNMT). B) Monoamine oxidase (MAO). C) Dopa decarboxylase. D) Tyrosine hydroxylase.
+
+144. The term "Catecholamines" encompasses three main chemical compounds: A) Acetylcholine, Serotonin, Melatonin. B) Adrenaline, Noradrenaline, Dopamine. C) Tyrosine, Dopa, Dopamine. D) Acetylcholine, Noradrenaline, VMA.
+
+145. Unlike acetylcholine, there is no enzyme for the hydrolysis of noradrenaline directly in the synaptic cleft. After diffusing into the plasma, it is hydrolyzed by two main enzymes: A) MAO and COMT. B) Acetylcholinesterase and PNMT. C) Tyrosine hydroxylase and MAO. D) COMT and Dopa decarboxylase.
+
+146. The most important metabolite of catecholamine breakdown, which is excreted in urine and used diagnostically, is: A) Uric acid. B) Vanillylmandelic acid (VMA). C) Acetic acid. D) Creatinine.
+
+147. High excretion of VMA in the urine is a strong clinical indicator of: A) Hyperthyroidism. B) A tumor in parasympathetic ganglia. C) Hyper-production of catecholamines (e.g., by a tumor in the adrenal medulla called Pheochromocytoma). D) Advanced renal failure.
+
+148. Which of the following is a Co-transmitter that may be found packaged with Acetylcholine? A) Neuropeptide Y (NPY). B) Vasoactive Intestinal Peptide (VIP). C) ATP. D) Nitric Oxide.
+
+149. Based on the table of effects on various organs, what is the sympathetic effect on the Eye pupil and which receptor mediates it? A) Constriction via muscarinic receptors. B) Dilation (contracts the dilator pupillae muscle) via alpha receptors. C) Dilation via beta receptors on the sphincter muscle. D) No effect.
+
+150. Parasympathetic stimulation of the salivary glands causes: A) Secretion of a small amount of mucus-rich saliva. B) Complete cessation of salivation, causing dry mouth. C) Stimulation of a large amount of watery saliva. D) Secretion of fat-digesting enzymes only.
+
+151. In response to stress, the sympathetic system causes Bronchodilation. Which receptor mediates this effect? A) Alpha 1 receptors. B) Beta 1 receptors. C) Beta 2 receptors. D) Muscarinic receptors.
+
+152. What is the parasympathetic effect on heart rate, and what is the scientific term for this effect? A) Increased (Positive chronotropic). B) Increased (Positive inotropic). C) Decreased (Negative chronotropic) via muscarinic receptors. D) No direct effect on the SA node.
+
+153. Which system increases the contractility of the heart (Positive inotropic effect)? A) Parasympathetic only, via direct ventricular innervation. B) Both systems increase it equally. C) Sympathetic only (positive inotropic); the parasympathetic has no direct effect on contractility as it does not supply the ventricles. D) Somatic signals from the vagus nerve.
+
+154. The sympathetic effect on Gastrointestinal Tract (GIT) motility and secretions is: A) Excitatory, increasing motility and relaxing sphincters. B) Decreased (inhibitory), contracting the sphincters and relaxing the walls. C) Excitatory, contracting both walls and sphincters simultaneously. D) Inhibitory on gastric acid only, without affecting motility.
+
+155. Regarding blood vessels, the dominant sympathetic effect is vasoconstriction (via alpha receptors). However, it causes vasodilation in specific vessels like the coronary arteries, mediated by: A) Muscarinic receptors. B) Alpha 2 receptors. C) Nicotinic receptors. D) Beta 2 receptors.
+
+156. Does the parasympathetic system have a vasoconstrictive effect on skin, abdominal viscera, or kidney blood vessels? A) Yes, it causes severe constriction. B) No, it does not supply these vessels and therefore has no effect. C) It causes vasodilation mediated by noradrenaline. D) It causes constriction only during rest.
+
+157. The Micturition and Defecation reflexes are excited (contracting the walls of the bladder/rectum and relaxing their sphincters) by the: A) Sympathetic system entirely. B) Cerebral cortex directly (SNS). C) Parasympathetic system. D) Adrenal hormones without neural input.
+
+158. What is the role of the sympathetic system regarding micturition and defecation reflexes? A) It stimulates the initiation of the reflexes. B) It relaxes the sphincters. C) It is not involved in the reflex itself, but its stimulation inhibits these reflexes. D) It works in complete synergy with the parasympathetic to accelerate them.
+
+159. In the regulation of male sex organs, how is the ANS functionally divided? A) Sympathetic controls erection, Parasympathetic controls ejaculation. B) Parasympathetic mediates the erection reflex, while Sympathetic mediates the ejaculation reflex. C) Sympathetic manages both processes. D) Both inhibit the processes during stress.
+
+160. Sweating is a function controlled by: A) The parasympathetic system completely. B) The sympathetic system (causes sweating), while the parasympathetic has no effect (does not supply sweat glands). C) Steroid hormones exclusively (no neural control). D) Simple diffusion ion exchange.
+
+161. Looking at the diagram of Cholinergic and Noradrenergic neurons (Fig 3.4), which of the following is considered a cholinergic neuron (releasing Acetylcholine)? A) All preganglionic neurons (symp and para). B) All postganglionic parasympathetic neurons. C) Postganglionic sympathetic neurons supplying sweat glands. D) All of the above.
+
+162. Based on the same anatomical diagram, the Somatic neuron supplying skeletal muscle: A) Does not pass through a ganglion and releases Acetylcholine directly onto the muscle. B) Passes through a ganglion and releases Noradrenaline. C) Releases Dopamine to ensure smooth movement. D) Is structurally identical to a postganglionic sympathetic neuron.
+
+163. In the classification of Co-transmitters, Neuropeptide Y and ATP are typically found packaged with which primary neurotransmitter? A) Acetylcholine. B) Noradrenaline. C) Glutamic acid. D) VIP.
+
+164. Dopamine is released within ANS pathways by some: A) Large motor neurons. B) Target muscle cells. C) Interneurons in sympathetic ganglia. D) Endothelial cells of blood vessels.
+
+165. Gonadotropin-releasing hormone (GnRH) can be released as a neurotransmitter by some: A) Preganglionic neurons. B) Interneurons. C) Spinal motor neurons. D) Glial cells.
+
+166. Based on the described noradrenaline synthesis pathway, the absence of the enzyme "Dopa decarboxylase" in the neuronal cytoplasm would directly lead to: A) A halt in the conversion of tyrosine to Dopa. B) Accumulation of Dopa and failure to synthesize Dopamine. C) Overproduction of Adrenaline. D) No effect on the pathway due to fast alternative enzymes.
+
+167. A ganglion in the Autonomic Nervous System functions as a: A) Storage site for negative ions to maintain RMP. B) Synapse station between the preganglionic neuron (from CNS) and the postganglionic neuron. C) Miniature endocrine gland releasing hormones into the blood. D) Blood-brain barrier (BBB).
+
+168. Muscarinic receptors are primarily located on: A) The ganglia of both sympathetic and parasympathetic systems. B) Voluntary skeletal muscles. C) Target organs supplied by postganglionic parasympathetic neurons (and sympathetic neurons to sweat glands). D) Inside the spinal cord.
+
+169. Nicotinic receptors (implied via the action of ACh in ganglia) receive neurotransmitters from: A) Preganglionic fibers to activate the postganglionic neuron. B) Sensory nerve fibers returning from the skin. C) Noradrenergic postganglionic fibers. D) Fibers that secrete the COMT enzyme.
+
+170. Inference Q: A patient suffers from generalized edema. A urine VMA test was normal. Blood plasma protein analysis showed severely low Albumin due to malnutrition. The mechanism leading to this edema does NOT involve: A) Decreased capillary oncotic pressure (OPc). B) Increased permeability due to a catecholamine-secreting tumor (since VMA is normal). C) Reduced absorption of fluids from the interstitial tissue. D) Decreased ability of the blood to retain water.
+
+171. Why is Osmolality considered more accurate than Osmolarity when measuring body fluids during extreme temperature elevations (e.g., severe fever), assuming physical effects apply? A) Because osmolality depends on volume, which expands with heat. B) Because osmolality depends on mass (kilograms), and mass does not change with temperature, unlike volume. C) There is absolutely no clinical difference ever. D) Because osmolality only measures sodium, ignoring glucose.
+
+172. In the compartment volume measurement formula V = (Q-e) / C, the letter 'C' represents: A) The total amount excreted in urine. B) The concentration of the dye in the compartment after distribution and equilibration. C) The speed of dye diffusion. D) The permeability coefficient of the membrane.
+
+173. To calculate the Packed Cell Volume (PCV) percentage for indirect blood volume measurement, one must: A) Centrifuge a blood sample in a capillary tube and calculate the percentage of packed cells at the bottom. B) Freeze the blood and measure the depression point. C) Add radioactive iodine and measure radiation. D) Inject heavy water and measure it in sweat.
+
+174. When studying the RMP, Potassium (K+) moves outward along its chemical gradient. This gradient was fundamentally generated by: A) Open leak channels. B) The negative charge of the outer membrane. C) The continuous accumulation of K+ inside the cell by the Na+/K+ pump, working against the gradient using ATP. D) Its binding to cellular proteins and sudden detachment.
+
+175. The "Transport mechanism" that relies exclusively on the random movement of particles to fill the available volume is: A) Primary active transport. B) Simple diffusion. C) Exocytosis. D) Symport.
+
+176. Which of the following steroid hormones is transported via simple diffusion according to the text? A) Hormones synthesized from cholesterol. B) Protein and peptide hormones. C) Dopamine and noradrenaline. D) Insulin and glucagon.
+
+177. Ions like sodium and potassium are water-soluble (polar). How can they be transported by passive "simple diffusion" despite the lipid membrane? A) They dissolve a portion of the membrane to cross. B) They bind to steroid hormones. C) They cross through specific water-filled "ion channels" which are integral membrane proteins. D) They are never transported passively.
+
+178. Causes of pitting edema include all causes of high capillary hydrostatic pressure. Which of the following diseases increases hydrostatic pressure to cause this edema? A) Heart failure (all types). B) Nephrotic syndrome. C) Malnutrition (Kwashiorkor). D) Surgical removal of lymph nodes.
+
+179. Which of the following diseases leads to decreased capillary oncotic pressure (Decreased OPc) and subsequent pitting edema? A) Localized venous obstruction. B) Nephrotic syndrome and liver cirrhosis. C) Filariasis. D) Burns and inflammation.
+
+180. When a patient suffers an extensive burn, swelling (localized edema) occurs. The direct mechanism for this, according to the text, is: A) High temperature increases capillary permeability, allowing proteins to escape to the interstitium and drag water with them. B) Heat completely destroys all lymphatic vessels in the entire body. C) The burning of albumin in the blood. D) An increase in hydrostatic blood pressure as a response to pain.
+
+181. Under normal physiological conditions, how does the body lose water (besides sweat, respiration, and feces) to maintain water balance? A) It is lost in urine to excrete the waste products of metabolism. B) It is lost through continuous tear production. C) By converting it to carbohydrates for storage. D) It evaporates directly from internal organs without passing through the skin.
+
+182. In neonates, TBW is roughly 80%. When compared to an elderly male, the percentage drops to 52%. What is the primary physiological explanation for this decline with age based on body composition rules? A) Excessive increase in muscle mass. B) The replacement of water-rich muscle tissue with water-poor fat tissue and aging changes. C) Elderly individuals completely stop drinking water. D) Increased lymphatic vessel activity.
+
+183. If you want to accurately measure ECF volume and avoid the error of the substance entering the cells, you should avoid using: A) Inulin. B) Sucrose. C) Radioactive sodium (which easily penetrates the entire ECF and may escape into cells). D) Mannitol.
+
+184. The electrogenic pump contributes only a small amount to the RMP. Which ion's movement contributes the vast majority of the -90 mV potential in skeletal muscle via leakage? A) Calcium influx. B) Potassium efflux. C) Chloride efflux. D) Protein retention in the nucleus.
+
+185. What is the precise chemical difference between Dopa and Dopamine in the synthesis pathway? A) Dopamine contains an additional hydroxyl group. B) Dopa is decarboxylated (loses a carboxyl group) to produce Dopamine. C) An iodine atom is added. D) They are bound to Acetyl CoA.
+
+186. When injecting a dye to measure fluid volume, if the value of (e) "amount excreted or metabolized" in the formula V = (Q-e)/C increases before the sample is taken, how is this handled mathematically? A) It is completely ignored. B) It is added to the total injected quantity (Q). C) It is subtracted from the original injected quantity (Q) to find the actual effective amount left in the compartment. D) It is multiplied by the concentration (C).
+
+187. According to Table 1.1, the percentage of water in human embryos is approximately: A) 60% B) 80% C) Almost 100% D) 52%
+
+188. If a skeletal muscle has an RMP of -90 mV and a nerve fiber has -70 mV, this indicates that the resting nerve cell membrane is: A) More polarized than the muscle. B) Much less permeable to sodium ions than the muscle. C) Closer to the point of depolarization and less negative than the skeletal muscle. D) Devoid of non-diffusible anions.
+
+189. Ion channels that are sensitive to direct physical stretch or pressure and are involved in the movement of certain cells are called: A) Ligand-gated channels. B) Mechano-sensitive channels. C) Voltage-gated channels. D) Aquaporins.
+
+190. The main difference between Primary active transport and Co-transport (Secondary active transport) is: A) Primary doesn't need a carrier protein while secondary does. B) Primary uses ATP energy directly for the transported substance; secondary uses a carrier utilized by another actively transported substance, relying on the gradient established by primary transport. C) Primary is only for water, secondary is for ions. D) Neither requires cellular energy consumption whatsoever.
+
+191. The invagination of the cell membrane around a molecule, followed by separation from the membrane to form a vesicle inside the cell, perfectly describes: A) Exocytosis. B) Endocytosis (such as phagocytosis or pinocytosis). C) Simple diffusion. D) Osmosis.
+
+192. Plasma albumin is absolutely critical for: A) Transporting noradrenaline. B) Generating the hydrostatic pressure that pumps blood. C) Exerting the 25 mmHg Capillary Oncotic Pressure (OPc) to prevent edema formation. D) Forming blood clots.
+
+193. The autonomic division that decreases Gastrointestinal (GIT) motility and causes sphincters to contract is the system that: A) Exclusively secretes Acetylcholine to induce contraction. B) Is activated during states of rest. C) Is the Sympathetic system (inhibitory receptors for motility). D) Originates from the cranial nerves.
+
+194. When HPc at the arteriolar end is 35 mmHg, and OPc is 25 mmHg (assuming interstitial pressures are negligible), the net +10 mmHg indicates a force that: A) Drives (filters) plasma fluid with nutrients into the interstitial tissue to nourish surrounding cells. B) Pulls waste products from the tissue into the blood. C) Destroys the capillary wall. D) Halts local blood flow.
+
+195. The origin of the preganglionic fibers that supply the cervical sympathetic ganglia (which then innervate the eye and salivary glands) is from the: A) Brain stem. B) Thoracolumbar spinal segments (T1-L2), where the axons ascend in the sympathetic trunk to form cervical ganglia. C) Third cranial nerve. D) Sacral nerves S2-S4.
+
+196. The differences between the Sympathetic and Parasympathetic divisions according to Table 3.2 include all the following EXCEPT: A) Sympathetic tends to have short preganglionic and long postganglionic neurons, while the reverse is true for Parasympathetic. B) Sympathetic ganglia are near the spinal cord, while parasympathetic ganglia are near the organs. C) The postganglionic neurotransmitter in Para is Acetylcholine, and mostly Noradrenaline in Symp. D) Both systems originate exclusively from the exact same specific nuclei in the midbrain.
+
+197. Which statement is most accurate regarding the receptors involved in pupil dilation, bronchodilation, and increased heart rate? A) All are muscarinic receptors. B) Pupil (Alpha), Bronchioles (Beta 2), and Heart rate (Beta 1) - all mediated by the sympathetic system. C) Pupil (Muscarinic), Bronchioles (Nicotinic). D) All are effects mediated by the Vagus nerve.
+
+198. In cases of severe hemorrhage and a drastic drop in blood pressure (acting as a severe stressor), which system intervenes strongly to preserve life by constricting blood vessels in the skin and abdominal viscera? A) The parasympathetic system via noradrenaline. B) The sympathetic system via alpha receptors. C) The somatic nervous system. D) Gibbs-Donnan equilibrium.
+
+199. Based on the organ effect tables, which of the following is a definitive Parasympathetic effect? A) Ejaculation. B) Bronchodilation. C) Excitatory effect (contraction) on the walls of the bladder and rectum to empty them. D) Profuse sweating.
+
+200. Considering ion concentrations, if solution A has the exact same osmolarity as solution B, and they are separated by a semi-permeable membrane: A) Water will rapidly move from A to B. B) Water will move from B to A due to Starling forces. C) There will be no net movement of water (No osmosis) because they are isotonic to each other. D) Cells placed in both solutions will swell and burst.
+
+Answer Key:
+1- B 2- C 3- C 4- B 5- C 6- B 7- B 8- B 9- B 10- C 11- C 12- B 13- B 14- C 15- C
+16- B 17- B 18- B 19- D 20- C 21- C 22- B 23- B 24- B 25- C 26- B 27- C 28- B
+29- B 30- A 31- B 32- C 33- A 34- B 35- B 36- C 37- C 38- C 39- C 40- B 41- A
+42- B 43- C 44- B 45- B 46- C 47- D 48- A 49- B 50- D 51- A 52- B 53- B 54- B
+55- B 56- C 57- B 58- A 59- B 60- C 61- C 62- B 63- C 64- B 65- A 66- B 67- B
+68- B 69- B 70- B 71- C 72- B 73- B 74- C 75- D 76- C 77- B 78- B 79- B 80- B
+81- C 82- B 83- C 84- B 85- B 86- B 87- A 88- C 89- C 90- B 91- B 92- C 93- B
+94- B 95- B 96- C 97- C 98- A 99- B 100- C 101- A 102- C 103- B 104- C 105- B
+106- B 107- B 108- C 109- B 110- A 111- B 112- B 113- B 114- B 115- B 116- C
+117- C 118- B 119- B 120- C 121- B 122- C 123- B 124- C 125- B 126- C 127- C
+128- A 129- C 130- B 131- A 132- B 133- C 134- B 135- C 136- B 137- B 138- B
+139- B 140- C 141- C 142- C 143- A 144- B 145- A 146- B 147- C 148- B 149- B
+150- C 151- C 152- C 153- C 154- B 155- D 156- B 157- C 158- C 159- B 160- B
+161- D 162- A 163- B 164- C 165- A 166- B 167- B 168- C 169- A 170- B 171- B
+172- B 173- A 174- C 175- B 176- A 177- C 178- A 179- B 180- A 181- A 182- B
+183- C 184- B 185- B 186- C 187- C 188- C 189- B 190- B 191- B 192- C 193- C
+194- A 195- B 196- D 197- B 198- B 199- C 200- C
